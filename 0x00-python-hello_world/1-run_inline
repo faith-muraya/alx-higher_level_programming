@@ -1,2 +1,3 @@
 #!/bin/bash
 python3 <<< $PYCODE
+#chmod u+x 1.Run inline
